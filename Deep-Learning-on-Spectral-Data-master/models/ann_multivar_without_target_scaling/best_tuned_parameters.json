@@ -1,0 +1,26 @@
+{
+    "batch_size": 32,
+    "best_hp": {
+        "units_0": 224,
+        "l2_reg": 2.1303386879009903e-05,
+        "dropout_0": 0.1,
+        "activation": "swish",
+        "num_layers": 5,
+        "lr": 0.00492210572872919,
+        "optimizer": "nadam",
+        "units_1": 16,
+        "dropout_1": 0.30000000000000004,
+        "units_2": 96,
+        "dropout_2": 0.1,
+        "units_3": 32,
+        "dropout_3": 0.0,
+        "units_4": 144,
+        "dropout_4": 0.4,
+        "units_5": 256,
+        "dropout_5": 0.4,
+        "units_6": 80,
+        "dropout_6": 0.2,
+        "units_7": 256,
+        "dropout_7": 0.0
+    }
+}

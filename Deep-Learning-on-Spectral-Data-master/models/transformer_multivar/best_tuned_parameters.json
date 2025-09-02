@@ -1,0 +1,14 @@
+{
+    "input_size": 4201,
+    "reduced_size": 512,
+    "batch_size": 16,
+    "input_channels": 1,
+    "d_model": 32,
+    "patch_size": 16,
+    "stride": 8,
+    "num_layers": 2,
+    "nhead": 4,
+    "dim_feedforward": 128,
+    "num_targets": 5,
+    "dropout": 0.3
+}

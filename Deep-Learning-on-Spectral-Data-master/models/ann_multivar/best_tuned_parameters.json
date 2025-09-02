@@ -1,0 +1,26 @@
+{
+    "batch_size": 32,
+    "best_hp": {
+        "units_0": 224,
+        "l2_reg": 3.387792442506433e-06,
+        "dropout_0": 0.0,
+        "activation": "elu",
+        "num_layers": 5,
+        "lr": 0.0004846170152731575,
+        "optimizer": "adam",
+        "units_1": 80,
+        "dropout_1": 0.1,
+        "units_2": 80,
+        "dropout_2": 0.2,
+        "units_3": 112,
+        "dropout_3": 0.1,
+        "units_4": 224,
+        "dropout_4": 0.0,
+        "units_5": 208,
+        "dropout_5": 0.1,
+        "units_6": 192,
+        "dropout_6": 0.2,
+        "units_7": 176,
+        "dropout_7": 0.4
+    }
+}

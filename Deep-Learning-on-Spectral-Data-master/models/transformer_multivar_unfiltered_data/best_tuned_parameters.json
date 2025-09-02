@@ -1,0 +1,11 @@
+{
+    "batch_size": 32,
+    "input_channels": 1,
+    "d_model": 64,
+    "patch_size": 9,
+    "stride": 3,
+    "num_layers": 3,
+    "nhead": 4,
+    "dim_feedforward": 256,
+    "num_targets": 5
+}
